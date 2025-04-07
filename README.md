@@ -5,7 +5,7 @@ This project classifies SMS messages as "spam" or "ham" (not spam) using machine
 
 - **Author**: Bin Ware
 - **Date**: April 06, 2025
-- **Notebook**: [classification_binware.ipynb](https://github.com/bware7/ml_classification_binware/classification_binware.ipynb)
+- **Notebook**: [classification_binware.ipynb](https://github.com/bware7/ml_classification_binware/blob/main/classification_binware.ipynb)
 
 ## Dataset
 The dataset, sourced from [Kaggle](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset), contains 5572 SMS messages (87% ham, 13% spam). I used TF-IDF vectors (3000 features) from the text as input and a binary label (0 = ham, 1 = spam) as the target. It’s stored in `data/spam.csv`.
