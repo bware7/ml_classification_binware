@@ -1,0 +1,15 @@
+# Python virtual environment
+.venv/
+
+# VS Code settings (ignore all except settings.json)
+.vscode/*
+!.vscode/settings.json
+
+# Compiled Python files
+__pycache__/
+
+# macOS system files
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/

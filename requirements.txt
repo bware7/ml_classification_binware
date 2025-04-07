@@ -1,0 +1,20 @@
+# Package management tools
+pip
+setuptools
+wheel
+
+# Jupyter Notebook essentials
+ipython
+jupyter
+ipykernel
+
+# Data analysis
+numpy
+pandas
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine learning
+scikit-learn
